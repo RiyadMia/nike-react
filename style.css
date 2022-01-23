@@ -1,0 +1,46 @@
+header{
+    background-color: wheat;
+    margin-bottom: 10%;
+}
+h1{
+    font-weight: 700;
+}
+.font-size{
+    font-size: 4em;
+}
+.align-items-center{
+    margin-left: 10%;
+}
+.text-size{
+    font-weight:bold;
+}
+button{
+    width: 25%;
+   border: none;
+}
+.svg{
+    width: 20%;
+}
+.svg-1{
+    width: 200%;
+    height: 200%;
+}
+.bg-color{
+    background-color: burlywood !important;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-warning{
+    width: 90%;
+    margin-left: 15%;
+}
+.svg-2{
+    width: 20%;
+}
+.width-2{
+    width: 10%;
+}
+.width {
+     width: 40%;
+}
